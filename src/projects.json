@@ -1,0 +1,26 @@
+[{
+        "id": 1,
+        "image": "",
+        "name": "Paws City",
+        "deloyedUrl": "https://nata-stelmakh.github.io/PawsCity/PetStores.html",
+        "GithubUrl": "https://github.com/nata-stelmakh/PawsCity",
+        "summary": "In our first group project, we have been assigned to think about a unique user need, and research APIs to connect user with resources. We found Petfinder API and TrueWay API, to combine an experience for the user looking for a new pet and pet lifestyle needs."
+    },
+    {
+        "id": 2,
+        "image": "",
+        "name": "iClassroom",
+        "deloyedUrl": "https://classroomhelper.herokuapp.com/",
+        "GithubUrl": "https://github.com/jamesrowe1/project2",
+        "summary": "Our second group project used Sequelize, Passport, Node.JS and proposes an app where with teacher supervision, students can take learn, take notes, and schedule sessions within their class to teach fellow students what they've learned: By teaching, we learn."
+    },
+    {
+        "id": 3,
+        "image": "",
+        "name": "React Employee Tracker",
+        "deloyedUrl": "https://reacttracker.herokuapp.com/",
+        "GithubUrl": "https://github.com/GCaplan777/ReactEmpTracker",
+        "summary": "Keeping track of employees is no joke, and as we've seen in our favorite tv show, The Simpsons (at least the classic era), management needs the latest in online rosters to search and sort their workers by name."
+    }
+
+]
