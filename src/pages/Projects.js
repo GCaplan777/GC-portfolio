@@ -1,5 +1,13 @@
 import React from "react";
+import ProjectCard from "../components/ProjectCard/index";
 
-const Projects = () => <h1>Projects</h1>;
+const Projects = () => {
+  return (
+    <>
+      <h1>Projects</h1>
+      <ProjectCard />
+    </>
+  );
+};
 
 export default Projects;

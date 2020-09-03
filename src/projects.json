@@ -20,7 +20,32 @@
         "name": "React Employee Tracker",
         "deloyedUrl": "https://reacttracker.herokuapp.com/",
         "GithubUrl": "https://github.com/GCaplan777/ReactEmpTracker",
-        "summary": "Keeping track of employees is no joke, and as we've seen in our favorite tv show, The Simpsons (at least the classic era), management needs the latest in online rosters to search and sort their workers by name."
+        "summary": "Keeping track of employees is no joke, and as we've seen in our favorite tv show, \"The Simpsons\" (at least the classic era), management needs the latest in online rosters to search and sort their workers by name."
+    },
+    {
+        "id": 4,
+        "image": "",
+        "name": "t/k",
+        "deloyedUrl": "https://reacttracker.herokuapp.com/",
+        "GithubUrl": "https://github.com/GCaplan777/ReactEmpTracker",
+        "summary": "Keeping track of employees is no joke, and as we've seen in our favorite tv show, \"The Simpsons\" (at least the classic era), management needs the latest in online rosters to search and sort their workers by name."
+    },
+    {
+        "id": 5,
+        "image": "t/k",
+        "name": "React Employee Tracker",
+        "deloyedUrl": "https://reacttracker.herokuapp.com/",
+        "GithubUrl": "https://github.com/GCaplan777/ReactEmpTracker",
+        "summary": "Keeping track of employees is no joke, and as we've seen in our favorite tv show, \"The Simpsons\" (at least the classic era), management needs the latest in online rosters to search and sort their workers by name."
+    },
+    {
+        "id": 6,
+        "image": "t/k",
+        "name": "React Employee Tracker",
+        "deloyedUrl": "https://reacttracker.herokuapp.com/",
+        "GithubUrl": "https://github.com/GCaplan777/ReactEmpTracker",
+        "summary": "Keeping track of employees is no joke, and as we've seen in our favorite tv show, \"The Simpsons\" (at least the classic era), management needs the latest in online rosters to search and sort their workers by name."
     }
+
 
 ]
