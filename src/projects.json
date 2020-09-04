@@ -2,7 +2,7 @@
         "id": 1,
         "image": "img/pawscity.jpg",
         "name": "Paws City",
-        "deloyedUrl": "https://nata-stelmakh.github.io/PawsCity/PetStores.html",
+        "deployedUrl": "https://nata-stelmakh.github.io/PawsCity/PetStores.html",
         "githubUrl": "https://github.com/nata-stelmakh/PawsCity",
         "summary": "In our first group project, we have been assigned to think about a unique user need, and research APIs to connect user with resources. We found Petfinder API and TrueWay API, to combine an experience for the user looking for a new pet and pet lifestyle needs."
     },
@@ -10,7 +10,7 @@
         "id": 2,
         "image": "img/iclassroom.png",
         "name": "iClassroom",
-        "deloyedUrl": "https://classroomhelper.herokuapp.com/",
+        "deployedUrl": "https://classroomhelper.herokuapp.com/",
         "githubUrl": "https://github.com/jamesrowe1/project2",
         "summary": "Our second group project used Sequelize, Passport, Node.JS and proposes an app where with teacher supervision, students can take learn, take notes, and schedule sessions within their class to teach fellow students what they've learned: By teaching, we learn."
     },
@@ -18,7 +18,7 @@
         "id": 3,
         "image": "img/reactemp.gif",
         "name": "React Employee Tracker",
-        "deloyedUrl": "https://reacttracker.herokuapp.com/",
+        "deployedUrl": "https://reacttracker.herokuapp.com/",
         "githubUrl": "https://github.com/GCaplan777/ReactEmpTracker",
         "summary": "Keeping track of employees is no joke, and as we've seen in our favorite tv show, \"The Simpsons\" (at least the classic era), management needs the latest in online rosters to search and sort their workers by name."
     },
@@ -26,7 +26,7 @@
         "id": 4,
         "image": "img/offlineonline.gif",
         "name": "Offline Online Budget Tracker",
-        "deloyedUrl": "https://offline-on-budget.herokuapp.com",
+        "deployedUrl": "https://offline-on-budget.herokuapp.com",
         "githubUrl": "https://github.com/GCaplan777/onlineofflinebudgettracker",
         "summary": "Dropped internet service is an everyday experience. Here, we design an app where functionality is A+ with or without a connection. Our budget tracker utilizes tech such as Node.js, Express.js, Mongoose and Compression to access the local browers data cache. Our user can add expenses and deposits to their budget on or offline. If offline, those totals will be still populate the total when back and in good service."
     },
@@ -34,15 +34,15 @@
         "id": 5,
         "image": "img/burger.png",
         "name": "Old Fashion Burger Builder",
-        "deloyedUrl": "https://eat-da-burger13243.herokuapp.com",
-        "githubUrl": " https://github.com/GCaplan777/Burger",
+        "deployedUrl": "https://eat-da-burger13243.herokuapp.com",
+        "githubUrl": "https://github.com/GCaplan777/Burger",
         "summary": "Hungry? Here's an app to log in your burger order utilizing MySQL, Node, Express, Handlebars and our secret-sauce; a homemade ORM."
     },
     {
         "id": 6,
         "image": "img/notetaker.png",
         "name": "Express Notetaker",
-        "deloyedUrl": "https://gcnotetaker321.herokuapp.com",
+        "deployedUrl": "https://gcnotetaker321.herokuapp.com",
         "githubUrl": "https://github.com/GCaplan777/Express-note-taker",
         "summary": "With Express.js, we have a Full Stack App that can be used to write, save, and delete notes."
     }

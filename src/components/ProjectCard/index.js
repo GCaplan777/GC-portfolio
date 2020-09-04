@@ -22,8 +22,12 @@ function ProjectCard(props) {
               <Card.Body>
                 <Card.Title>{props.name}</Card.Title>
                 <Card.Text>{props.summary}</Card.Text>
-                <Button variant="primary">{props.deployedUrl}</Button>
-                <Button variant="primary">{props.githubUrl}</Button>
+                <a href={props.deployedUrl} target="_blank">
+                  <Button variant="primary">Link to Deployed Site</Button>
+                </a>
+                <a href={props.githubUrl} target="_blank">
+                  <Button variant="primary">Link to Github Repo</Button>
+                </a>
               </Card.Body>
             </Card>
           </div>

@@ -14,7 +14,7 @@ class ProjectPage extends Component {
           <ProjectCard
             image={project.image}
             name={project.name}
-            deloyedUrl={project.deloyedUrl}
+            deployedUrl={project.deployedUrl}
             githubUrl={project.githubUrl}
             summary={project.summary}
           />
