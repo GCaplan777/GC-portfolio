@@ -6,3 +6,8 @@
 .icon-h {
     width: 3em;
 }
+
+footer {
+    background-color: maroon;
+    /* font-size: 0.8em; */
+}
