@@ -2,7 +2,7 @@
         "id": 1,
         "image": "img/pawscity.jpg",
         "name": "Paws City",
-        "deployedUrl": "https://nata-stelmakh.github.io/PawsCity/PetStores.html",
+        "deployedUrl": "https://nata-stelmakh.github.io/PawsCity/index.html",
         "githubUrl": "https://github.com/nata-stelmakh/PawsCity",
         "summary": "In our first group project, we have been assigned to think about a unique user need, and research APIs to connect user with resources. We found Petfinder API and TrueWay API, to combine an experience for the user looking for a new pet and pet lifestyle needs."
     },
@@ -16,7 +16,7 @@
     },
     {
         "id": 3,
-        "image": "img/reactemp.gif",
+        "image": "img/react-emp.png",
         "name": "React Employee Tracker",
         "deployedUrl": "https://reacttracker.herokuapp.com/",
         "githubUrl": "https://github.com/GCaplan777/ReactEmpTracker",
